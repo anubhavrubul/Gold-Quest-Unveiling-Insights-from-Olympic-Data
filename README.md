@@ -1,2 +1,6 @@
-# Gold-Quest-Unveiling-Insights-from-Olympic-Data
- Journeying Through Data Insights" is a project exploring decades of Olympic Games data. Through analytics and visualization, it uncovers trends, medal distributions, and factors contributing to success, offering insights into the evolution of the Games and celebrating athletes' achievements.
+# olympics-data-analysis-web-app
+A Streamlit web application for the analysis of olympics dataset
+
+Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Live Demo: https://oda-campusx.herokuapp.com/
